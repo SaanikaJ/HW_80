@@ -1,0 +1,13 @@
+.right { 
+    text-align: center;
+}
+
+body { 
+    background-image:url(original.jpg); 
+    background-size:cover; 
+    text-align:center; 
+}
+
+.left{ 
+    text-align:center; 
+}
